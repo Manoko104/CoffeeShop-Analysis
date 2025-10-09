@@ -39,7 +39,7 @@ growth-oriented decisions that drive business performance and operational excell
 
 **🛠️Tools & Technology used**
 
-- Miro🧠
+- Miro🧠 https://miro.com/app/board/uXjVIh45ZFc=/?focusWidget=3458764633659339468
 
 - SQL🗄️ (standard)
 
